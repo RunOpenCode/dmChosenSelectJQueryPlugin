@@ -1,0 +1,7 @@
+css:
+  dmChosenSelectJQueryPlugin:
+    admin: admin/admin
+js:
+  dmChosenSelectJQueryPlugin:
+    chosen: chosen.jquery.min
+    launch: dmChosenSelectJQueryPlugin

@@ -1,0 +1,4 @@
+default:
+  dmChosenSelectJQueryPlugin:
+    themes:
+      admin: dmChosenSelectJQueryPlugin.admin
